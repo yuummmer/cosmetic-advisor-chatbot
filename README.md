@@ -1,4 +1,5 @@
 # FDA Cosmetic Advisor Chatbot
+![Cosmetic_advisor_chatbot_eyeliner](https://github.com/user-attachments/assets/8129507a-3a8a-4e7b-9236-9e05d7c097a0)
 
 This project is an interactive chatbot that provides answers to user queries based on FDA guidelines for cosmetics. The chatbot processes uploaded PDF files, extracts relevant information, and uses an AI model to answer questions based on the content of those documents. The assistant provides answers, tracks the chat history, and allows users to download the chat history as a CSV file.
 
