@@ -90,6 +90,14 @@ This is the Streamlit web interface for interacting with the chatbot. It provide
 3. **Download Chat History as CSV**:
    Once you are done with the session, you can download the chat history (questions and responses) by clicking the "Download Chat History to CSV" button. The data will be downloaded in CSV format, which you can open in any spreadsheet application.
 
+## Sample PDF
+
+To quickly test the chatbot without needing your own FDA guidelines, you can download the sample PDF from the repository:
+
+- [Download Sample FDA Cosmetic Labeling Guide PDF](./cosmetic_labeling_guide.pdf)
+
+Once downloaded, simply upload this PDF into the app and start interacting with the chatbot.
+
 ## Customization
 
 - Modify the **`PROMPT_TEMPLATE`** in `functions.py` to change how the assistant responds to queries.
