@@ -94,7 +94,7 @@ This is the Streamlit web interface for interacting with the chatbot. It provide
 
 To quickly test the chatbot without needing your own FDA guidelines, you can download the sample PDF from the repository:
 
-- [Download Sample FDA Cosmetic Labeling Guide PDF]([./cosmetic-labeling-guide.pdf](https://www.fda.gov/media/88234/download))
+- [Download Sample FDA Cosmetic Guidelines PDF](https://www.fda.gov/media/88234/download)
 
 Once downloaded, simply upload this PDF into the app and start interacting with the chatbot.
 
