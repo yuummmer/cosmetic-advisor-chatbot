@@ -112,3 +112,8 @@ Once downloaded, simply upload this PDF into the app and start interacting with 
 ## Conclusion
 
 This project provides an interactive tool for querying FDA guidelines for cosmetics, using an AI-powered chatbot to deliver insights directly from uploaded documents. It’s a useful resource for anyone needing quick, context-based answers to questions about cosmetic regulations.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
