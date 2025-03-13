@@ -47,7 +47,7 @@ This script defines the main functions for processing the PDF files, extracting 
 - **`process_multiple_pdfs(pdf_files, query)`**: Processes multiple PDFs, extracts text, creates vector stores, and generates answers based on the user's query.  
 - **`query_document(vectorstore, query)`**: Queries the vector store with the provided query and returns a structured response.  
 
-### 2. **app.py**  
+### 2. **streamlit_app.py**  
 
 This is the Streamlit web interface for interacting with the chatbot. It provides a user-friendly environment where users can upload PDFs, input queries, and see the assistant’s responses.  
 
@@ -65,7 +65,7 @@ This is the Streamlit web interface for interacting with the chatbot. It provide
 To start the Streamlit app, run:  
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 This will open the app in your browser.  
