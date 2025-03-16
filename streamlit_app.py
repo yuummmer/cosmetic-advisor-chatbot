@@ -30,12 +30,13 @@ for message in st.session_state["messages"]:
 
 # React to user input
 if prompt := st.chat_input("What would you like to chat about?"):
-    # Display user message in chat message container
-    with st.chat_message("user"):
-        st.markdown(prompt)
     
     # Add user message to chat history
     st.session_state["messages"].append({"role": "user", "content": prompt})
+    
+    # Display user message in chat message container
+    with st.chat_message("user"):
+        st.markdown(prompt)
 
     # Get context from uploaded PDFs if available
     if uploaded_files:
