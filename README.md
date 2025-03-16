@@ -94,6 +94,9 @@ To quickly test the chatbot, you can use this sample FDA guideline PDF:
 
 This project provides an interactive tool for querying FDA guidelines for cosmetics using an AI-powered chatbot. It helps users get quick answers to regulatory questions efficiently.  
 
+## Contributing  
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.  
+
 ## License  
 
 This project is licensed under the [MIT License](LICENSE).  
